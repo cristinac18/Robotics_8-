@@ -1,0 +1,6 @@
+# today i learned what variables are 
+print("whats your favourite anime?")
+input("enter your favourite anime")
+input(i love that anime)
+print("whats your name?")
+input("enter your name") 
