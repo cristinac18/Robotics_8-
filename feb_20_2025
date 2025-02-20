@@ -1,0 +1,10 @@
+#today i learned what variables are 
+input ("i was grilling a pie with charring poison ivy with a side of tv")
+("Name a food > pie") 
+("Name a type of plant > Poison ivy")
+("Name a method of cooking > Grilling")       
+("What word describes burned food? > Charred")
+("Name a Household item > tv")
+
+("MENU")
+("Grilled pie with charred poison ivy on a bed of tvs")
