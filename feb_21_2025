@@ -1,0 +1,7 @@
+#today i learned how to place questions and to get a reponse 
+myIntrest = input("What is your intrest?:")
+print(myIntrest)
+myfriends = input("who are your friends?:")
+print(myfriends)
+mymusictaste = input("what is your music taste?:")
+print(mymusictaste)
