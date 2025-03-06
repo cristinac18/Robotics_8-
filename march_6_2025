@@ -1,3 +1,4 @@
+#what did you learn, i learned how to make stories by using code
 input("welcome to adventure. im going to ask you a couple questions.")
 myName = input("what is your name?:")
 print(myName)
