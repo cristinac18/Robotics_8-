@@ -1,0 +1,12 @@
+input("welcome to adventure. im going to ask you a couple questions.")
+myName = input("what is your name?:")
+print(myName)
+myplacetovisit = input("where would you like to visit?:")
+print(myplacetovisit)
+myactivitetodoonvacation = input("what would you like to do on your vacation?:")
+print(myactivitetodoonvacation)
+myfoodyouwouldeatthere = input("what would you like to eat there?:")
+print(myfoodyouwouldeatthere)
+
+
+input("hello"+"myName"+"you would like to visit" + myplacetovisit")
