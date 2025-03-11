@@ -1,0 +1,15 @@
+# 100 days of code day 5 
+# today i learned how to ask and answer questions 
+
+character = input("would you have super strength or super speed?")
+ifcharacteristic = "super strength"
+ifcharacteristic = "super speed"
+print("super speed is amazing.")
+elsecharacteristic = "super strength"
+print("nice.")
+character = input("would you have claws like wolverine or webs like spiderman?")
+ifcharacteristic = "claws"
+ifcharacteristic  = "webs"
+print("claws are cool")
+elsecharacteristic = "webs"
+print("same with me i love spiderman")
